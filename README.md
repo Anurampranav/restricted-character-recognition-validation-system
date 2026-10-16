@@ -8,7 +8,7 @@ A complete web application for validating uploaded character images against a fi
 
 The backend preprocesses uploaded images, runs OCR with EasyOCR, validates the detected character, stores each result in SQLite, and exposes history/statistics APIs. The frontend provides a clean React interface for upload, validation, history search, pagination, and allowed dataset viewing.
 
-## Technology Stack
+## Technology Stack.
 
 Backend:
 
@@ -26,7 +26,7 @@ Frontend:
 - Tailwind CSS
 - Axios
 
-## Project Structure
+## Project Structure.
 
 ```text
 backend/
@@ -59,7 +59,7 @@ frontend/
       api.js
 ```
 
-## Backend Installation !!
+## Backend Installation 
 
 From the project root:
 
