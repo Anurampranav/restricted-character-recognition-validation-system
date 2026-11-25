@@ -1,4 +1,4 @@
-# Restricted Character Recognition and Validation System 
+# Restricted Character Recognition and Validation System .
 
 
 A complete web application for validating uploaded character images against a fixed allowed dataset:
@@ -25,8 +25,8 @@ Frontend:
 - Vite
 - Tailwind CSS
 - Axios
-
-## Project Structure.
+.
+## Project Structure
 
 ```text
 backend/
